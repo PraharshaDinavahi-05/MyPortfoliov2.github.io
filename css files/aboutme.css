@@ -1,0 +1,129 @@
+body{
+    background-color: rgb(20,5,30);
+    color: wheat;
+    font-size: 14pt;
+    display: inline;
+
+}
+hr{
+    width: 65%;
+    height: 10px;
+    background-color: rgb(193, 180, 164);
+}
+#main{
+    position: absolute;
+    left: 17.5%;
+    width: 65%;
+    /*margin-left: 17.5%;
+    margin-right: 17.5%;*/
+}
+#second{
+    
+    background-position: center;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+    height: 900px;
+    font-family: 'Marhey';
+    margin-bottom: 100px;
+    
+}
+
+.one{
+    font-family: 'Gluten';
+    font-size: 1.5rem;
+}
+span{
+    font-family: 'Bungee Spice';
+    font-size: 2.5rem;
+}
+#zero{
+    font-family:'Rubik Doodle Shadow' ;
+    font-size: 2rem;
+}
+#one{
+    font-family:'Concert One';
+    font-size: 1.5rem;
+    color: aqua;
+}
+
+#two{
+    font-family: 'Nabla';
+    font-size: 20pt;
+}
+#backarr{
+    position: fixed;
+    margin-top: 150px;
+    margin-left: 20px;
+    width: 150px;
+    height: 100px;
+}
+#next{
+    position: fixed;
+    margin-top: 150px;
+    margin-left: 1325px;
+    width: 150px;
+    height: 110px;
+    text-align: center;
+    font-family: 'Concert One';
+}
+#nextarr{
+    width: 100%;
+    height: 100px;
+}
+#imgaboutme{
+    width: 30%;
+    height: 100%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    border-radius: 20%;
+}
+.likes{
+    text-align: center;
+}
+#line1{
+    display: inline;
+}
+#line2{
+    color: aqua;
+
+}
+li{
+    margin-top: 10px;
+}
+center{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+#textch{
+    color: white;
+}
+#computer
+{
+    height: 800px;
+}
+#change{
+    font-family: 'Rubik Doodle Shadow';
+    font-size: 22pt;
+    color: aquamarine;
+}
+ul{
+    color: white;
+    font-size: 15pt;
+}
+::-webkit-scrollbar
+{
+    width: 12px;
+}
+::-webkit-scrollbar-thumb
+{
+    background:linear-gradient(transparent, #e93232);
+    border-radius: 20px;
+}
+::-webkit-scrollbar-track{
+    background-color: #907db3;
+}
+
+
+/*links*/

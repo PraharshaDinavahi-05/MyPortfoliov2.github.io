@@ -1,0 +1,110 @@
+body {
+    font-family: "Poppins", sans-serif;
+    background-color: #faf9f6;
+    display: flex;
+    flex-direction: column;
+    min-height: 95vh;
+}
+.main {
+    position: absolute;
+    left: 180px;
+    margin-right: 180px;
+    
+
+    flex: 1;
+}
+#back{
+    position: fixed;
+    margin-top: 200px;
+    margin-right: 1500px;
+    width: 120px;
+    height: 100px;
+
+
+}
+
+
+h1 {
+    font-size: 5rem;
+    text-shadow:5px 5px 5px blueviolet ;
+}
+h2{
+    margin-top: 20px;
+    text-decoration: underline;
+}
+
+p{
+    display: inline;
+    font-weight: bolder;
+}
+.tile-image{
+    float: left;
+}
+.left{
+    float:left;
+    
+}
+.right{
+    float:right;
+}
+img{
+    height: 180px;
+    width: 300px;
+    margin: 20px;
+}
+.logo{
+    height:50px;
+    width: 200px;
+}
+div div{
+    height:500px;
+    width:45%;
+}
+
+div.certi{
+    width: 100%;
+    height: 300px;
+}
+div.certi.right{
+    width: 80%;
+}
+p.certi1{
+    position: absolute;
+    top: 1510px;
+}p.certi2{
+    position: absolute;
+    top: 1810px;
+}
+p.certi3{
+    position: absolute;
+    top: 2110px;
+}
+p.certi4{
+    position: absolute;
+    left: 400px;
+    top: 2410px;
+}
+p.certi{
+    font-size: 1.8rem;
+    font-family: 'gluten';
+}
+
+#footer {
+    position: absolute;
+    top: 2570px;
+    left: 20px;
+    color: midnightblue;
+}
+::-webkit-scrollbar
+{
+    width: 12px;
+}
+::-webkit-scrollbar-thumb
+{
+    background:linear-gradient(transparent, blueviolet);
+    border-radius: 20px;
+}
+
+
+
+

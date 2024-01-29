@@ -1,0 +1,126 @@
+body{
+    margin: 0%;
+    border: 0%;
+}
+#mylogo{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    display: inline;
+    position: absolute;
+    left: 90%;
+
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    display: inline;
+    font-family:'climate crisis';
+    font-size: 2rem;
+    text-shadow: -5px 5px 5px black;
+}
+
+#right
+{
+    
+    float: right;
+    margin-left: 20px;
+    width: 50%;
+    height: 100vh;
+    background: url(../fold/manonsys3.png);
+}
+#port{
+    margin: 0%;
+}
+#left{
+    
+    background-color: #55198b; /*rgb(123,78,164);*/
+    height: 100vh;
+    position: fixed;
+    width: 50%;
+
+}
+.links{
+    margin-left: 200px;
+    text-align: center;
+    display: flex;
+    gap: 120px;
+    font-family:cursive;
+    
+}
+hr{
+    width: 70%;
+    height: 5px;
+    background-color: antiquewhite;
+}
+.link:link{
+    background-color: white;
+    padding: 0%;
+
+}
+a:link,a:visited{
+    background-color: rgb(255, 255, 255);
+    font-size: 1rem;
+    text-align: center;
+    padding: 10px;
+    color: black;
+    font-weight: bolder;
+    text-decoration: none;
+}
+a:hover,a:active{
+    background-color: rgb(32, 110, 127);
+}
+#me{
+    clear: left;
+    width: 90%;
+    position: relative;
+    left: 30px;
+    text-align: center;
+    top: 10%;
+    color: rgb(255, 255, 255);
+    font-size: 1.2rem;
+    font-family:'Lugrasimo';
+    
+}
+.text{
+    display: inline;
+}
+i{
+    font-family: 'gluten';
+    font-size: 2.5rem;
+    text-shadow: 3px 3px 3px black;
+    text-decoration-skip-ink:auto ;
+}
+span{
+    font-family:'Marhey';
+    font-weight:bolder;
+    color: rgb(140, 186, 248);
+    text-decoration:underline;
+    font-size: 1.8rem;
+}
+/*#manonsys{
+    width: 100%;
+    height: 90%;
+}*/
+.cont{
+    width: 50px;
+    height: 50px;
+    margin-left: 3px;
+}
+#contact{
+    margin-top: 20px;
+    width: 250px;
+    float: right;
+    
+}
+#insta{
+    width: 80px;
+}
+#whatsapp{
+    margin-right: 10px;
+}
+#foot{
+    position: absolute;
+    top: 95vh;
+    left: 85%
+}
